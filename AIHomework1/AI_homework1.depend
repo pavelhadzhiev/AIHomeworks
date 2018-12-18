@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545054590 source:/Users/i344978/Documents/FMI/codeblocks/AI_homework1/homework1.cpp
+	<iostream>
+	<queue>
+
